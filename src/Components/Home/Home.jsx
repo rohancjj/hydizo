@@ -13,7 +13,7 @@ function Home() {
         </h1>
         <p>
           Empower your business with cutting-edge technology solutions. From
-          cloud infrastructure to AI integration, we deliver scalable solutions
+          cloud infrastructurer to AI integration, we deliver scalable solutions
           that drive growth and innovation.
         </p>
 
