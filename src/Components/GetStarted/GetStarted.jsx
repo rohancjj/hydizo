@@ -10,7 +10,7 @@ function GetStarted() {
           <span className="highlight">Schedule your demo with Hydizo</span>
         </h2>
         <p>
-          Experience Hydizo’s platform first-hand. No long forms, no hassle —
+          Experience Hydizo’s platform first-hand. No long form, no hassle —
           just an easy way to explore how we can transform your business.
         </p>
         <button className="getstarted-btn">Get Schedule</button>
